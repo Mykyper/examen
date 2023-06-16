@@ -1,0 +1,153 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0;
+    padding: 0;
+    
+}
+header{
+    background-color:rgb(98, 98, 98) ;
+    color: white;
+}
+.logo{
+    margin-left: 3%;
+    color: #da491c;
+}
+.nav{
+    display: flex;
+    justify-content:space-between;
+}
+nav{
+    padding: auto;
+    margin-top: 5%;
+    display: flex;
+    
+}
+nav a:hover{
+    color: #da491c;
+    font-size: 20px;
+}
+.nav a {
+    text-decoration: none;
+    padding: 15px;
+    color: white;
+   
+  }
+
+.love{
+    display: block;
+}
+#code{
+    margin-top: 5%;
+    text-align: center;
+    font-size: 25px;
+    font-family: 'Raleway', sans-serif;
+}
+#barre{
+    margin-top: 5%;
+}
+#agency{
+    text-align: center;
+    max-width: 1200px;
+    margin-left: 11%;
+    font-size: 18px;
+    height: 110px;
+}
+.part2{
+    display: flex;
+    justify-content: space-evenly;
+    background-color:rgb(240, 238, 238) ;
+    font-family: 'Open Sans', sans-serif;
+    
+    justify-items: center;
+}
+#up{
+    display: flex;
+}
+.clean-color{
+    display: block;
+}
+#down{
+    max-width: 350px;
+    font-size: 15px;
+}
+.part3{
+    display: block;
+    margin-top: 5%;
+    margin-left: 5%;
+
+}
+.text{
+    display: flex;
+}
+#trust{
+    margin-left: 2%;
+    font-size: 19px;
+    font-family: 'Raleway', sans-serif;
+    color:#da491c ;
+}
+#images{
+    display: flex;
+    justify-content: center;
+    margin-bottom: 5%;
+}
+#square{
+    height: 300px;
+    width: 320px;
+    background-color: black;
+    margin-left: 0.5%;
+}
+
+#square:hover{
+    opacity: 50%;
+}
+
+#img{
+    margin-left: 23%;
+    margin-top: 40%;
+}
+#cony{
+    margin-left: 35%;
+    margin-top: 34%;
+}
+.part4{
+    justify-content: center;
+    background-color:rgb(240, 238, 238) ;
+    text-align: center;
+}
+footer{
+    display: block;
+    background-color: #292929;
+    color: white;
+    text-align: center;
+}
+.f1{
+    
+    display: flex;
+    justify-content: space-around;
+}
+#mail{
+    display: block;
+}
+button{
+    background-color: aliceblue;
+    color: black;
+    border-radius: 2px;
+    height: 30px;
+    width: 40px;
+}
+#btn{
+    display: flex;
+}
+.part5{
+   
+    background-color:rgb(240, 238, 238) ;
+
+}
+#us{
+    background-color: rgb(218, 73, 28);
+    width: 120px;
+    height: 50px;
+    margin-left: 5%;
+    color: white;
+    border: none;
+}
